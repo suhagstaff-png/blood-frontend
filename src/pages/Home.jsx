@@ -135,7 +135,7 @@ const Home = () => {
         <div className="text-center text-white px-4 max-w-4xl mx-auto">
           <div className="mb-8">
             <div className="w-24 h-24 bg-white bg-opacity-20 rounded-full flex items-center justify-center mx-auto mb-6 border-4 border-white border-opacity-30">
-              <span className="text-4xl">♥</span>
+              <span className="text-6xl text-red-600">♥</span>
             </div>
             <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
               One Blood Donation

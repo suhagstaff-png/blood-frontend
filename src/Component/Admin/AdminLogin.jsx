@@ -105,7 +105,7 @@ const AdminLogin = () => {
             </svg>
           </div>
           <h1 className="text-3xl font-bold text-red-800 mb-2">Admin Login</h1>
-          <p className="text-gray-600">Bangladesh Blood Donation System</p>
+          <p className="text-gray-600">DonorHub</p>
         </div>
 
         {/* Login Form */}
@@ -374,7 +374,7 @@ const AdminLogin = () => {
         {/* Footer */}
         <div className="text-center mt-6">
           <p className="text-sm text-gray-600">
-            Bangladesh Blood Donation System © {new Date().getFullYear()}
+            DonorHub © {new Date().getFullYear()}
           </p>
           <p className="text-xs text-gray-500 mt-1">A service initiative</p>
         </div>

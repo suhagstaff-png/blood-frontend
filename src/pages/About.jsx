@@ -6,11 +6,11 @@ const About = () => {
       <div className="max-w-4xl mx-auto px-4">
         <div className="bg-white rounded-2xl shadow-lg p-8">
           <h1 className="text-4xl font-bold text-center text-gray-800 mb-8">
-            About BloodDonation
+            About DonorHub
           </h1>
           <div className="prose prose-lg max-w-none">
             <p className="text-gray-700 leading-relaxed mb-6">
-              Welcome to BloodDonation - a life-saving platform that connects
+              Welcome to DonorHub - a life-saving platform that connects
               blood donors with those in urgent need. Our mission began with a
               simple yet powerful vision: to ensure that no one dies waiting for
               blood in Bangladesh.
@@ -21,7 +21,7 @@ const About = () => {
             </h2>
             <p className="text-gray-700 leading-relaxed mb-6">
               Founded in response to the critical blood shortage in our
-              healthcare system, BloodDonation emerged as a beacon of hope. We
+              healthcare system, DonorHub emerged as a beacon of hope. We
               witnessed how families struggled to find compatible blood during
               emergencies, and we knew we had to create a solution that could
               save lives instantly.
@@ -134,7 +134,7 @@ const About = () => {
             </div>
 
             <div className="mt-12 text-center text-gray-600 border-t border-gray-200 pt-8">
-              <p className="font-semibold">BloodDonation Bangladesh</p>
+              <p className="font-semibold">DonorHub Bangladesh</p>
               <p className="text-sm">Saving Lives, One Donation at a Time</p>
             </div>
           </div>

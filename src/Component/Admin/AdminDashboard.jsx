@@ -230,7 +230,7 @@ const AdminPanelLeft = () => {
               <div>
                 <div className="text-lg font-bold">Admin Panel</div>
                 <div className="text-xs text-red-200">
-                  Bangladesh Blood Donation System
+                  DonorHub
                 </div>
               </div>
             </div>

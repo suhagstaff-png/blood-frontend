@@ -13,7 +13,7 @@ const Footer = () => {
                 <span className="text-red-600 font-bold text-2xl">♥</span>
               </div>
               <div>
-                <h1 className="text-white text-2xl font-bold">BloodDonation</h1>
+                <h1 className="text-white text-2xl font-bold">DonorHub</h1>
                 <p className="text-red-200">Save Lives, Build Bangladesh</p>
               </div>
             </Link>
@@ -97,7 +97,7 @@ const Footer = () => {
             <ul className="space-y-3 text-gray-400">
               <li className="flex items-center space-x-3">
                 <span className="text-red-500">📍</span>
-                <span>72/K, Green Road, Dhaka-1205</span>
+                <span>Shamimabad, Bagbari ,sylhet-3100</span>
               </li>
               <li className="flex items-center space-x-3">
                 <span className="text-red-500">📞</span>
@@ -105,7 +105,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center space-x-3">
                 <span className="text-red-500">✉️</span>
-                <span>help@blooddonation.org</span>
+                <span>help@DonorHub.org</span>
               </li>
               <li className="flex items-center space-x-3">
                 <span className="text-red-500">🕒</span>
@@ -119,7 +119,7 @@ const Footer = () => {
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-center md:text-left mb-4 md:mb-0">
-              © 2024 BloodDonation Bangladesh - All Rights Reserved
+              © 2024 DonorHub Bangladesh - All Rights Reserved
             </p>
             <div className="flex space-x-6 text-sm text-gray-400">
               <a href="#" className="hover:text-white transition">
